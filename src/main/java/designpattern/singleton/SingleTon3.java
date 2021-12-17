@@ -1,4 +1,4 @@
-package javabasic.singleton;
+package designpattern.singleton;
 
 /**
  * 对静态字段实现线程安全延迟初始化

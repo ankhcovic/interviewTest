@@ -1,4 +1,4 @@
-package javabasic.singleton;
+package designpattern.singleton;
 
 /**
  * 对实例字段实现线程安全的延迟初始化，基于volatile双重校验锁

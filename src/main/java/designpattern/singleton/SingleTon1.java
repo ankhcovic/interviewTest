@@ -1,4 +1,4 @@
-package javabasic.singleton;
+package designpattern.singleton;
 
 /**
  * @author gaoyouxin
