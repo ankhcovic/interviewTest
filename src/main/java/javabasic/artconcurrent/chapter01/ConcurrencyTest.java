@@ -20,7 +20,6 @@ public class ConcurrencyTest {
 
     /**
      * 加和减的操作并发执行
-     * @throws InterruptedException
      */
     private static void concurrency() throws InterruptedException {
         long start = System.currentTimeMillis();
